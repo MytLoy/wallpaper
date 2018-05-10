@@ -1,0 +1,14 @@
+{
+  "pages":[
+    
+    "pages/wallpaper/wallpaper",
+    "pages/wallpaper/color/color",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
